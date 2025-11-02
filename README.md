@@ -1,4 +1,3 @@
-# sql_project
 project_sql_1
 
 **Problem Statement Scenario:**
